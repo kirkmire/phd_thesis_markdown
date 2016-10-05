@@ -41,7 +41,7 @@ and add the centred logo
         % \includegraphics[width=0.4\textwidth]{style/univ_logo.eps}
         
         \normalsize
-        University College London, UK\\
+        University of Montana, UK\\
         January 2015
 
         % Except where otherwise noted, content in this thesis is licensed under a Creative Commons Attribution 4.0 License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Copyright 2015,Tom Pollard.
