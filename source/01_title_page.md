@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 <!-- 
 This is the Latex-heavy title page. 
 People outside UCL may want to remove the header logo 
@@ -9,30 +12,29 @@ and add the centred logo
 
     % Delete the following line
     % to remove the UCL header logo
-    \ThisULCornerWallPaper{1.0}{style/univ_logo.eps}
-        
+
         \vspace*{2.5cm}
         
         \huge
-        This is the title of the thesis
+        Predicting the Growth Response of Small Douglas-fir and Ponderosa Pine Trees under Varying Levels of Overstory Retention, Vegetative Competition and Site Quality
         
         \vspace{1.5cm}
         
         \Large
-        Firstname Surname
+        Colin Kirkmire
 
         \vspace{1.5cm}
 
         \normalsize
         A thesis presented for the degree of\\
-        Doctor of Philosophy
+        M.Sc.Forestry
         
         \vfill
         
         \normalsize
         Supervised by:\\
-        Professor Louis Fage\\
-        Captain J. Y. Cousteau
+        Dr. David Affleck\\
+        Dr. John Goodburn
 
         \vspace{0.8cm}
 
@@ -41,8 +43,8 @@ and add the centred logo
         % \includegraphics[width=0.4\textwidth]{style/univ_logo.eps}
         
         \normalsize
-        University of Montana, UK\\
-        January 2015
+        University of Montana, US\\
+        October 2016
 
         % Except where otherwise noted, content in this thesis is licensed under a Creative Commons Attribution 4.0 License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Copyright 2015,Tom Pollard.
 
